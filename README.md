@@ -43,9 +43,13 @@ A shortcut icon, website icon, tab icon, URL icon, or bookmark icon, is a file c
 
 ## Deployment 
 STEP 1: Create Repository. Of course, the first step is to create the repository for the website you wish to publish
+
 STEP 2: Push Your Code. The html file with name index
+
 STEP 3: Go To Settings. Click on the settings tab
+
 STEP 4: Publish GitHub Page
+
 STEP 5: Go To Website
 
 
@@ -53,6 +57,8 @@ You can use this portfolio with your creative customization and can take this po
 
 ## References
 [1] https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/
+
 [2] https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154
+
 [3] https://www.codingnepalweb.com/2020/09/responsive-personal-portfolio-website.html
 
