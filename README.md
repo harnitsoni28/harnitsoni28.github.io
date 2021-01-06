@@ -1,7 +1,7 @@
 # harnitsoni28.github.io
 
 ## Title
-*Harneet's Potfolio
+*Harneet's Potfolio*
 
 ## Introduction -
 Personal portfolios sites are consistent that need to be taken care of throughout your work.
