@@ -15,9 +15,9 @@ Here is a working live demo of fully Responsive Personal Portfolio Website -: ht
 ## Technologies
 To create this program [One Page Personal Portfolio Website. 
 First, you need to create three Files: 
-* one HTML File
-* one CSS File and 
-* one JavaScript File
+* HTML File
+* CSS File and 
+* JavaScript File
 
 
 ## Table of contents
