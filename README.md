@@ -10,6 +10,30 @@ It gives a convenient way for potential clients to view your work while also let
 ## Demo
 Here is a working live demo of fully Responsive Personal Portfolio Website : https://harnitsoni28.github.io/
 
+#### A clean, beautiful and responsive portfolio template for Developers!
+
+
+### Desktop View :
+
+
+
+<p align="center">
+  <kbd>
+<img src="https://github.com/harnitsoni28/harnitsoni28.github.io/blob/main/images/Gif%20file/Desktop%20version%20view.gif"></img> 
+  </kbd>
+</p>
+
+
+### Mobile View :
+
+
+
+<p align="center">
+  <kbd>
+<img src="https://github.com/harnitsoni28/harnitsoni28.github.io/blob/main/images/Gif%20file/Mobile%20vesion%20view.gif"></img> 
+  </kbd>
+</p>
+
 
 
 ## Technologies
