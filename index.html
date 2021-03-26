@@ -226,24 +226,24 @@
                     </div>
                 </div>
                 <div class="column right">
-                    <div class="text">Message me</div>
-                    <form action="#">
+                     <div class="text">Message me</div>
+                    <form class="contact-form" action="#" method="POST">
                         <div class="fields">
                             <div class="field name">
-                                <input type="text" placeholder="Name" required>
+                                <input type="text" placeholder="Full Name" placeholder="Name" required>
                             </div>
                             <div class="field email">
-                                <input type="email" placeholder="Email" required>
+                                <input type="email" placeholder="Email ID" placeholder="Email" required>
                             </div>
                         </div>
                         <div class="field">
-                            <input type="text" placeholder="Subject" required>
+                            <input type="text" class="subject" placeholder="Subject" required>
                         </div>
                         <div class="field textarea">
                             <textarea cols="30" rows="10" placeholder="Message..." required></textarea>
                         </div>
                         <div class="button">
-                            <button type="submit">Send message</button>
+                            <button class="send-msg" type="submit" name="send">Send message</button>
                         </div>
                     </form>
                 </div>
@@ -255,7 +255,6 @@
         <span> <a href="#">Made with ❤️ by Harneet Kumar</a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
     </footer>
 
- <!-- Somehow I got an error, so I comment the script tag, just uncomment to use -->
     <script src="script.js"></script>
 </body>
 </html>
