@@ -209,6 +209,9 @@ section .title::after{
     color: rgb(16, 148, 56);
     background: none;
 }
+span{
+    color:rgb(16, 148, 56);
+}
 
 /* about section styling */
 .about .title::after{
