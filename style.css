@@ -184,6 +184,11 @@ section .title::after{
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
+    letter-spacing: 4px;
+    text-transform: none;
+    font-size: 4.5em;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width:2px;
 }
 .home .home-content .text-3{
     font-size: 40px;
