@@ -218,6 +218,7 @@ section .title::after{
     font-family:  'Open Sans Condensed', sans-serif;
     text-transform: uppercase;
     color: #ff0000;
+    text-align: center;
 }
 
 
