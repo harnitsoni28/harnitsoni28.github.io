@@ -215,7 +215,9 @@ section .title::after{
     background: none;
 }
 span{
-    color:rgb(16, 148, 56);
+    color:rgb(#ff0000);
+    text-transform: uppercase;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 /* about section styling */
