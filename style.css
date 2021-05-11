@@ -214,11 +214,12 @@ section .title::after{
     color: rgb(16, 148, 56);
     background: none;
 }
-span{
-    color:rgb(16, 148, 56);
-/*     text-transform: uppercase;
-    font-family: 'Open Sans Condensed', sans-serif; */
+#MMU{
+    font-family:  'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    color: #ff0000;
 }
+
 
 /* about section styling */
 .about .title::after{
