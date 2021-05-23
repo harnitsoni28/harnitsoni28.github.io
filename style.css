@@ -162,11 +162,22 @@ section .title::after{
     filter: brightness(90%);
 }
 
+.img-fluid{
+       
+    /*
+   margin-top: 100px;
+   max-width: 100%; 
+   height: auto; 
+   padding-right: 100px;
+   */
   
+
+
+}
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/mainlaptopgif.gif") no-repeat center;
+    background: url("images/BG.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
